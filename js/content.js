@@ -22,7 +22,7 @@ const schoolContent = {
       bio: "Head Teacher. Leading with zeal and dedication",
     },
     {
-      name: "Mr John Doe",
+      name: "Mr Ibrahim Lawal",
       position: "Class Teacher",
       department: "Nursery",
       photo: "assets/images/logo.jpg",
@@ -49,8 +49,8 @@ const schoolContent = {
   // Cultural Activities, Facilities  (list is galleryCategories in config.js)
   gallery: [
     {
-      image: "assets/images/session.jpg",
-      caption: "Bright classroom",
+      image: "assets/images/eagleabout.jpg",
+      caption: "Eaglesworld",
       category: "Classrooms",
     },
     {
@@ -118,7 +118,7 @@ const schoolContent = {
       title: "School Resumption",
       category: "Announcement",
       date: "2026-09-14",
-      image: "assets/images/gallery/library.jpg",
+      image: "assets/images/eagleflyer.jpg",
       published: true,
       excerpt:
         "Resumption dates, school hours and first-week arrangements are shared here once confirmed.",
@@ -149,7 +149,7 @@ const schoolContent = {
       title: "Parents Meeting",
       category: "Parents",
       date: "2026-08-23",
-      image: "assets/images/parent.jpg",
+      image: "assets/images/teagleeacher.jpg",
       published: true,
       excerpt: "Date, time and agenda for the next parents' meeting.",
       content: "TBA.",
@@ -187,7 +187,7 @@ const schoolContent = {
       title: "Admission Announcement",
       category: "Admissions",
       date: "2026-07-21",
-      image: "",
+      image: "assets/images/eagleadmission.jpg",
       published: true,
       excerpt:
         "Admission is open. Read how to begin the process for your child.",
@@ -382,7 +382,7 @@ const schoolContent = {
     payment: {
       note: "Fees and payment information can be updated by the school administrator.",
       bankName: "Bank Name",
-      accountName: "Future Hope Schools",
+      accountName: "Eagles world Schools",
       accountNumber: "XXXXXXXXXX",
       instructions:
         "Please use your child's full name and class as the payment reference, and send proof of payment to the school office or via WhatsApp.",

@@ -7,16 +7,16 @@ const schoolConfig = {
   heroText:
     "Building confident, knowledgeable and responsible young minds through quality education, discipline and character.",
 
-  location: "Majek, opposite Fara Park Estate, Epe-Ajah Expressway, Lagos",
+  location: "1, Eaglesworld Close, Balogun Estate, Opp. Fara Park, Off Lekki-Epe Expressway. Majek/Ajah, Lagos",
   addressLines: [
-    "Majek, opposite Fara Park Estate,",
-    "Epe-Ajah Expressway,",
-    "Lagos, Nigeria.",
+    "1, Eaglesworld Close, Balogun Estate,",
+    "Opp. Fara Park, Off Lekki-Epe Expressway.",
+    "Majek/Ajah, Lagos, Nigeria.",
   ],
 
-  phone: "+234 903 010 9127",
+  phone: "+234 802 928 2607",
   email: "info@eaglesworldschool.com",
-  whatsapp: "2349030109127",
+  whatsapp: "23498029282607",
   whatsappMessage:
     "Hello Eaglesworld Schools, I would like to make an enquiry about admission.",
   openingHours:
@@ -31,17 +31,17 @@ const schoolConfig = {
   images: {
     about: "assets/images/logo.jpg",
     creche: "assets/images/reading.jpg",
-    nursery: "assets/images/creche.jpg",
-    primary: "assets/images/primary.jpg",
-    secondary: "assets/images/secondary.jpg",
+    nursery: "assets/images/eaglestudent.jpg",
+    primary: "assets/images/eagleprimary.jpg",
+    secondary: "assets/images/eaglearound.jpg",
   },
 
   mapUrl:
-    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.4164415064893!2d3.6547908000000002!3d6.4688142!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf94e2cc199a5%3A0xdfb25373f783331d!2sEaglesworld%20School!5e0!3m2!1sen!2sng!4v1790916884033!5m2!1sen!2sng",
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.381835971874!2d3.6508856749925163!3d6.473223693518542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bf950c1d3a5a9%3A0x662522ae15dbb88a!2sEaglesworld%20Global%20Schools!5e0!3m2!1sen!2sng!4v1791207343961!5m2!1sen!2sng",
 
   social: { facebook: "", instagram: "", youtube: "", tiktok: "" },
 
-  colors: { primary: "#6D1230", secondary: "#D4A017" },
+  colors: { primary: "#1E1A5E", secondary: "#ED1C24" },
 
   designer: "Emmanuel | Sowftech",
 
