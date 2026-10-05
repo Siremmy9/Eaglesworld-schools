@@ -16,7 +16,7 @@ const schoolConfig = {
 
   phone: "+234 802 928 2607",
   email: "info@eaglesworldschool.com",
-  whatsapp: "23498029282607",
+  whatsapp: "2348029282607",
   whatsappMessage:
     "Hello Eaglesworld Schools, I would like to make an enquiry about admission.",
   openingHours:
