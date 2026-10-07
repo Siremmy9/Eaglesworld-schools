@@ -2,7 +2,7 @@
    main.js  -  shared chrome (header/footer/WhatsApp), section renderers,
    scroll effects, counters, testimonial carousel.
    Other scripts register renderers: App.renderers["name"] = (el) => {...}
-   and run code after setup with App.onReady(fn). design
+   and run code after setup with App.onReady(fn). design nav site-header our school
    ========================================================================== */
 
 const App = {
@@ -28,7 +28,7 @@ const App = {
   const NAV = [
     ["Home", "index.html"],
     ["About", "about.html"],
-    ["Our Schools", "schools.html"],
+    ["Our School", "schools.html"],
     ["Academics", "academics.html"],
     ["Admissions", "admissions.html"],
     ["Fees", "fees.html"],
@@ -59,7 +59,7 @@ const App = {
         <nav class="nav" aria-label="Main navigation"><ul>${navLinks()}</ul></nav>
         <div class="header-actions">
           <a class="icon-btn" data-wa target="_blank" rel="noopener" aria-label="Chat with us on WhatsApp">${icon("whatsapp", 22)}</a>
-          <a class="btn btn-gold btn-sm header-cta" href="admissions.html#apply">Apply Now</a>
+          <a class="btn btn-gold btn-sm header-cta" href="admissions.html#apply">Apply </a>
           <button class="menu-btn" type="button" aria-expanded="false" aria-controls="mobile-menu" aria-label="Open menu">${icon("menu", 26)}</button>
         </div>
       </div>
