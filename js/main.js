@@ -1,10 +1,10 @@
-/* =========
+/* ===
    main.js  -  shared chrome (header/footer/WhatsApp),
    section renderers, scroll effects, counters, testimonial carousel.
    Other scripts register renderers: App.renderers["name"] = (el) => {...}
-   and run code after setup with App.onReady(fn). 
-   design nav site-header our school Quick links Home of Scholars... Where The Future Begins!
-   ========== */
+   and run code after setup with App.onReady(fn).Innovation what we stand for 
+   design nav site-header our school Quick links Home of Scholars... Where The Future Begins! admission
+   === */
 
 const App = {
   renderers: {},
@@ -259,9 +259,9 @@ const App = {
 
   R.about = (el) => {
     const a = cfg.about;
-    el.innerHTML = `<article class="about-card reveal"><h3>Our mission</h3><p>${esc(a.mission)}</p></article>
-      <article class="about-card reveal"><h3>Our vision</h3><p>${esc(a.vision)}</p></article>
-      <article class="about-card reveal"><h3>Educational philosophy</h3><p>${esc(a.philosophy)}</p></article>`;
+    el.innerHTML = `<article class="about-card reveal"><h3>Educational Philosophy</h3><p>${esc(a.mission)}</p></article>
+      <article class="about-card reveal"><h3>Our Mandate</h3><p>${esc(a.mandate)}</p></article>
+      <article class="about-card reveal"><h3>Our Activities</h3><p>${esc(a.activities)}</p></article>`;
   };
 
   R["admission-steps"] = (el) => {

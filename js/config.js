@@ -1,11 +1,12 @@
 const schoolConfig = {
-  /* ---- Identity ---- */
+  /* ---- Identity mission what we stand for knowledgeable ---- */
   name: "Eaglesworld Schools",
-  tagline: "Home of Scholars... Where The Future Begins!",
-  heroTitle: "Home of Scholars",
-  heroSubtitle: "Where The Future Begins!",
+
+  tagline: " Eaglesworld",
+  heroTitle: "Integrity & Excellence",
+  heroSubtitle: "....Raising the very best",
   heroText:
-    "Building confident, knowledgeable and responsible young minds through quality education, discipline and character.",
+    "Building Character of determination, dedication and Diligience",
 
   location: "1, Eaglesworld Close, Balogun Estate, Opp. Fara Park, Off Lekki-Epe Expressway. Majek/Ajah, Lagos",
   addressLines: [
@@ -108,14 +109,14 @@ const schoolConfig = {
   ],
 
   about: {
-    intro:
-      "Eaglesworld Schools is a family-focused school offering Crèche, Nursery, Primary and Secondary education. We partner with parents to raise children who are confident, knowledgeable and responsible, and who are ready to lead.",
+    intro: 
+      " We partner with parents to raise children who are confident, knowledgeable and responsible, and who are ready to lead.",
     mission:
-      "To provide quality education in a safe, disciplined and caring environment that develops the whole child: mind, character and talent.",
-    vision:
-      "To be the home of leaders: a school where every child discovers their potential and is prepared for the future.",
-    philosophy:
-      "Children learn best when they feel safe, known and challenged. We combine firm discipline with warm relationships, and strong academics with character, creativity and service.",
+      "Every Child is Unique, with special Talents. Training turns talent to treasure. Any Child can be inspired to excellent greatness",
+    mandate:
+      "To build character of determination, dedication and dilligence, To bring the best out of every child, to raise excellent leaders",
+    activities:
+      "Classroom Learnings, Practicals, Sport Activities, Club activities.",
   },
 
   values: [

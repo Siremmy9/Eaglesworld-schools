@@ -44,7 +44,7 @@ const schoolContent = {
     },
   ],
 
-  /* ------------------------------ GALLERY ------------------------------ */
+  /* ------ GALLERY  what we stand for ------ */
   // category must be one of: Classrooms, Students, Events, Sports, Graduation,
   // Cultural Activities, Facilities  (list is galleryCategories in config.js)
   gallery: [
@@ -110,7 +110,7 @@ const schoolContent = {
     },
   ],
 
-  /* --------------------------- NEWS & EVENTS --------------------------- */
+  /* --- NEWS & EVENTS --- */
   // date: "YYYY-MM-DD".  published: false hides an article without deleting it.
   // content: full text; use a blank line between paragraphs.
   news: [
@@ -196,7 +196,7 @@ const schoolContent = {
     },
   ],
 
-  /* ----------------------------- FACILITIES ---------------------------- */
+  /*  FACILITIES ---- */
   facilities: [
     {
       title: "Modern Classrooms",
@@ -258,7 +258,7 @@ const schoolContent = {
     },
   ],
 
-  /* ----------------------------- ACADEMICS ----------------------------- */
+  /* ----- ACADEMICS ----- */
   academicsApproach: [
     {
       title: "Curriculum",
@@ -309,7 +309,7 @@ const schoolContent = {
     "Religious and Moral Education",
   ],
 
-  /* ---------------------------- TESTIMONIALS --------------------------- */
+  /* ---- TESTIMONIALS --- */
   testimonials: [
     {
       name: "Mrs Esther",
@@ -341,7 +341,7 @@ const schoolContent = {
     },
   ],
 
-  /* ------------------------------- FEES -------------------------------- */
+  /* ------- FEES -------- */
   // Type an amount like "₦XX,XXX" or "Contact School". Keys match the "id" of
   // each school in config.js (creche, nursery, primary, secondary).
   fees: {
