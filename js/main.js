@@ -1,9 +1,10 @@
-/* ==========================================================================
-   main.js  -  shared chrome (header/footer/WhatsApp), section renderers,
-   scroll effects, counters, testimonial carousel.
+/* =========
+   main.js  -  shared chrome (header/footer/WhatsApp),
+   section renderers, scroll effects, counters, testimonial carousel.
    Other scripts register renderers: App.renderers["name"] = (el) => {...}
-   and run code after setup with App.onReady(fn). design nav site-header our school
-   ========================================================================== */
+   and run code after setup with App.onReady(fn). 
+   design nav site-header our school Quick links Home of Scholars... Where The Future Begins!
+   ========== */
 
 const App = {
   renderers: {},
@@ -30,7 +31,7 @@ const App = {
     ["About", "about.html"],
     ["Our School", "schools.html"],
     ["Academics", "academics.html"],
-    ["Admissions", "admissions.html"],
+    // ["Admissions", "admissions.html"],
     ["Fees", "fees.html"],
     ["Facilities", "facilities.html"],
     ["Gallery", "gallery.html"],
@@ -128,8 +129,11 @@ const App = {
       <div class="container footer-grid">
         <div class="footer-brand">
           ${brand()}
-          <p class="footer-tag">${esc(cfg.tagline)}</p>
-          <a class="btn btn-gold btn-sm" data-wa target="_blank" rel="noopener">${icon("whatsapp", 18)} Chat on WhatsApp</a>
+          <p class="footer-tag">${esc(cfg.tagline)} </p>
+          <a class="btn btn-gold btn-sm" data-wa target="_blank" rel="noopener">${icon("whatsapp", 18)} Chat on WhatsApp</a> </p>
+          <p><a class="btn btn-sm btn-gold" href="admin/login.html">Admin login</a></p>
+
+
         </div>
         <div><h2 class="footer-h">Quick links</h2><ul class="footer-list">
           <li><a href="index.html">Home</a></li><li><a href="about.html">About</a></li><li><a href="admissions.html">Admissions</a></li>
@@ -552,3 +556,5 @@ const App = {
     document.dispatchEvent(new Event("school:ready"));
   });
 })();
+
+
