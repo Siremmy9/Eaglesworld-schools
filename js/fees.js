@@ -1,7 +1,6 @@
-/* ==========================================================================
-   fees.js  -  public fee cards, payment details, downloadable fee schedule.
-   Data comes from localStorage key "school_fees" (edited in Admin > School Fees).
-   ========================================================================== */
+/* 
+   Data comes from localStorage key "school_fees" 
+    */
 (function () {
   "use strict";
   const { $, $$, esc } = Utils;

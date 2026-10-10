@@ -30,7 +30,7 @@ const schoolConfig = {
   heroPoster: "assets/images/logo.jpg",
 
   images: {
-    about: "assets/images/logo.jpg",
+    about: "assets/images/gallery/eaglesbuilding.jpg",
     creche: "assets/images/reading.jpg",
     nursery: "assets/images/eaglestudent.jpg",
     primary: "assets/images/eagleprimary.jpg",
@@ -197,5 +197,5 @@ const schoolConfig = {
     "Parents",
   ],
 
-  siteUrl: "", // e.g. "https://www.Eaglesworld.com" (used for SEO; update canonical tags in the HTML too)
+  siteUrl: "", 
 };

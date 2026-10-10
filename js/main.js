@@ -4,7 +4,7 @@
    Other scripts register renderers: App.renderers["name"] = (el) => {...}
    and run code after setup with App.onReady(fn).Innovation what we stand for 
    design nav site-header our school Quick links Home of Scholars... Where The Future Begins! admission
-   === */
+   whatsapp Message === */
 
 const App = {
   renderers: {},
