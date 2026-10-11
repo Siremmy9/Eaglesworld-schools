@@ -49,42 +49,42 @@ const schoolContent = {
   // Cultural Activities, Facilities  (list is galleryCategories in config.js)
   gallery: [
     {
-      image: "assets/images/eagleabout.jpg",
+      image: "assets/images/gallery/eagleabout.jpg",
       caption: "Eaglesworld",
       category: "Classrooms",
     },
     {
-      image: "assets/images/reading.jpg",
+      image: "assets/images/gallery/reading.jpg",
       caption: "Reading time",
       category: "Students",
     },
     {
-      image: "assets/images/computerlab.jpg",
+      image: "assets/images/gallery/computerlab.jpg",
       caption: "ICT Lab",
       category: "ICT Laboratory",
     },
     {
-      image: "assets/images/graduation.jpg",
+      image: "assets/images/gallery/graduation.jpg",
       caption: "Graduation day",
       category: "Graduation",
     },
     {
-      image: "assets/images/cultural.jpg",
+      image: "assets/images/gallery/cultural.jpg",
       caption: "Cultural parade",
       category: "Outdoor Activities",
     },
     {
-      image: "assets/images/lab.jpg",
+      image: "assets/images/gallery/lab.jpg",
       caption: "Science corner",
       category: "Facilities",
     },
     {
-      image: "assets/images/assembly.jpg",
+      image: "assets/images/gallery/assembly.jpg",
       caption: "Assembly",
       category: "Students",
     },
     {
-      image: "assets/images/playground.jpg",
+      image: "assets/images/gallery/playground.jpg",
       caption: "Inter-house relay",
       category: "Sports",
     },
@@ -94,17 +94,17 @@ const schoolContent = {
       category: "Classrooms",
     },
     {
-      image: "assets/images/openday.jpg",
+      image: "assets/images/gallery/openday.jpg",
       caption: "Open day",
       category: "Events",
     },
     {
-      image: "assets/images/firstaid.jpg",
+      image: "assets/images/gallery/firstaid.jpg",
       caption: "Medical Team",
       category: "Facilities",
     },
     {
-      image: "assets/images/bus.jpg",
+      image: "assets/images/gallery/bus.jpg",
       caption: "School Bus",
       category: "School Bus",
     },
@@ -118,7 +118,7 @@ const schoolContent = {
       title: "School Resumption",
       category: "Announcement",
       date: "2026-09-14",
-      image: "assets/images/eagleflyer.jpg",
+      image: "assets/images/news/eagleflyer.jpg",
       published: true,
       excerpt:
         "Resumption dates, school hours and first-week arrangements are shared here once confirmed.",
@@ -129,7 +129,7 @@ const schoolContent = {
       title: "Inter-House Sports",
       category: "Sports",
       date: "2026-09-07",
-      image: "assets/images/gallery/sports.jpg",
+      image: "assets/images/news/sports.jpg",
       published: true,
       excerpt:
         "Highlights, house points and photos from the school's sports competition.",
@@ -139,7 +139,7 @@ const schoolContent = {
       title: "Graduation Ceremony",
       category: "Events",
       date: "2026-08-30",
-      image: "assets/images/gallery/graduation.jpg",
+      image: "assets/images/news/graduation.jpg",
       published: true,
       excerpt:
         "Details of the ceremony for graduating pupils, with a guide for families.",
@@ -149,7 +149,7 @@ const schoolContent = {
       title: "Parents Meeting",
       category: "Parents",
       date: "2026-08-23",
-      image: "assets/images/teagleeacher.jpg",
+      image: "assets/images/news/teagleeacher.jpg",
       published: true,
       excerpt: "Date, time and agenda for the next parents' meeting.",
       content: "TBA.",
@@ -158,7 +158,7 @@ const schoolContent = {
       title: "Cultural Day",
       category: "Events",
       date: "2026-08-15",
-      image: "assets/images/gallery/cultural.jpg",
+      image: "assets/images/news/cultural.jpg",
       published: true,
       excerpt:
         "A day to celebrate Nigerian cultures through food, dress, music and dance.",
@@ -168,7 +168,7 @@ const schoolContent = {
       title: "Excursion",
       category: "Events",
       date: "2026-08-07",
-      image: "assets/images/excursion.jpg",
+      image: "assets/images/news/excursion.jpg",
       published: true,
       excerpt:
         "Where our pupils are going, what to bring and how to give consent.",
@@ -187,7 +187,7 @@ const schoolContent = {
       title: "Admission Announcement",
       category: "Admissions",
       date: "2026-07-21",
-      image: "assets/images/eagleadmission.jpg",
+      image: "assets/images/news/eagleadmission.jpg",
       published: true,
       excerpt:
         "Admission is open. Read how to begin the process for your child.",
