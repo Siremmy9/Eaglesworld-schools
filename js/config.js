@@ -6,9 +6,10 @@ const schoolConfig = {
   heroTitle: "Integrity & Excellence",
   heroSubtitle: "....Raising the very best",
   heroText:
-    "Building Character of determination, dedication and Diligience",
+    "Founded on Biblical principles of making right the moral and academic wrong in the society.",
 
-  location: "1, Eaglesworld Close, Balogun Estate, Opp. Fara Park, Off Lekki-Epe Expressway. Majek/Ajah, Lagos",
+  location:
+    "1, Eaglesworld Close, Balogun Estate, Opp. Fara Park, Off Lekki-Epe Expressway. Majek/Ajah, Lagos",
   addressLines: [
     "1, Eaglesworld Close, Balogun Estate,",
     "Opp. Fara Park, Off Lekki-Epe Expressway.",
@@ -42,11 +43,11 @@ const schoolConfig = {
 
   social: { facebook: "", instagram: "", youtube: "", tiktok: "" },
 
-  colors: { primary: "#1E1A5E", secondary: "#ED1C24" },
+  colors: { primary: "#0B2545", secondary: "#F4C430" },
 
   designer: "Emmanuel | Sowftech",
 
-  stats: { years: 10, students: 500, staff: 40, programs: 12 },
+  stats: { years: 15, students: 700, staff: 40, programs: 12 },
 
   /* ---- Sections of the school ---- */
   levels: [
@@ -108,8 +109,8 @@ const schoolConfig = {
   ],
 
   about: {
-    intro: 
-      " We partner with parents to raise children who are confident, knowledgeable and responsible, and who are ready to lead.",
+    intro:
+      " Eaglesworld School is a modern school in touch with the modern world offering quality education that caters for the totality of a child.",
     mission:
       "Every Child is Unique, with special Talents. Training turns talent to treasure. Any Child can be inspired to excellent greatness",
     mandate:
@@ -196,5 +197,5 @@ const schoolConfig = {
     "Parents",
   ],
 
-  siteUrl: "", 
+  siteUrl: "",
 };

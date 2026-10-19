@@ -31,7 +31,7 @@ const App = {
     ["About", "about.html"],
     ["Our School", "schools.html"],
     ["Academics", "academics.html"],
-    // ["Admissions", "admissions.html"],
+    // ["Admissions", "admissions.html Excellence"],
     ["Fees", "fees.html"],
     ["Facilities", "facilities.html"],
     ["Gallery", "gallery.html"],
@@ -556,5 +556,3 @@ const App = {
     document.dispatchEvent(new Event("school:ready"));
   });
 })();
-
-

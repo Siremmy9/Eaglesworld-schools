@@ -1,25 +1,25 @@
 const schoolContent = {
   staff: [
     {
-      name: "Mr Eagles ",
-      position: "Principal",
+      name: "Mr Ajisafe Dorcas ",
+      position: "Educational Director",
       department: "Administration",
       photo: "assets/images/gallery/staff.jpg",
-      bio: "Propiertor. Motivated Educator, Leading with zeal and dedication",
+      bio: "Founder. Seasoned Educationist, devoted, disciplined, agile and caring mother",
     },
     {
-      name: "Mrs Eagles",
-      position: "Vice Principal",
+      name: "Mrs. Agbale Onome",
+      position: "Head Teacher",
       department: "Administration",
       photo: "assets/images/logo.jpg",
-      bio: "Vice Principal. Motivated Educator, Leading with zeal and Precision",
+      bio: "Head Teacher with a primary purpose of raising excellent and morally upright people, leaders and world changers in the country",
     },
     {
       name: "Mrs Adeleke",
-      position: "Head Teacher",
+      position: "VIce Principal",
       department: "Primary",
       photo: "assets/images/client3.jpg",
-      bio: "Head Teacher. Leading with zeal and dedication",
+      bio: "Head Teacher with a primary purpose of raising excellent and morally upright people, leaders and world changers in the country",
     },
     {
       name: "Mr Ibrahim Lawal",
